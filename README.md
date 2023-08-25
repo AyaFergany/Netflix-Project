@@ -17,6 +17,6 @@
 - The year highest In which number of the TV shows & Movies were released in saudi:
 2020
 - the top Genres in saudi:
-Comedies, International Movies
+Comedies, International Movies
 
 
