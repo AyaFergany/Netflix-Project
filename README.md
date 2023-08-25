@@ -1,5 +1,5 @@
 # Netflix-Project
-1- Insights for egypt
+1- Insights for Egypt
 
 - Most watched shows on netflix in egypt: Movies
 - the best Month for releasing content IN egypt: June.
@@ -18,5 +18,9 @@
 2020
 - the top Genres in saudi:
 Comedies, International Movies
+
+3- How does Machine learning help the investors in making decision
+It predicted that most will be watched on netflix in egypt and saudia arabia
+- Movies
 
 
