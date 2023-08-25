@@ -13,7 +13,7 @@
 - Most watched shows on the  in saudi:  Movies
 - the best Month for releasing content IN saudi: Octuber. 
 - the highest rating TV show or Movies for saudi: TV-14
-= Number of movies got the "TV-14" rating in saudi: 4
+- Number of movies got the "TV-14" rating in saudi: 4
 - The year highest In which number of the TV shows & Movies were released in saudi:
 2020
 - the top Genres in saudi:
