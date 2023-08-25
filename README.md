@@ -16,12 +16,10 @@
 - Number of movies got the "TV-14" rating in saudi: 4
 - The year highest In which number of the TV shows & Movies were released in saudi:
 2020
-- the top Genres in saudi:
-Comedies, International Movies
+- the top Genres in saudi: Comedies, International Movies
 
 3- How does Machine learning help the investors in making decision
 
-It predicted that most will be watched on netflix in egypt and saudia arabia
-- Movies
+- It predicted that most will be watched on netflix in egypt and saudia arabia: Movies
 
 
