@@ -1,5 +1,5 @@
 # Netflix-Project
-# A vedio that show the dashboard
+# A video that show the dashboard
 
 https://github.com/AyaFergany/Netflix-Project/assets/91394241/f81528d1-58ec-4111-8006-aa0bf04503fe
 
