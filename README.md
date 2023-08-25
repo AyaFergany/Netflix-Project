@@ -1,4 +1,8 @@
 # Netflix-Project
+# A vedio that show the dashboard
+
+https://github.com/AyaFergany/Netflix-Project/assets/91394241/f81528d1-58ec-4111-8006-aa0bf04503fe
+
 1- Insights for Egypt
 
 - Most watched shows on netflix in egypt: Movies
@@ -21,5 +25,9 @@
 3- How does Machine learning help the investors in making decision
 
 - It predicted that most will be watched on netflix in egypt and saudia arabia: Movies
+
+
+
+
 
 
