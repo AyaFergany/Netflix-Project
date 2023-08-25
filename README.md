@@ -20,6 +20,7 @@
 Comedies, International Movies
 
 3- How does Machine learning help the investors in making decision
+
 It predicted that most will be watched on netflix in egypt and saudia arabia
 - Movies
 
